@@ -1,6 +1,8 @@
 # AWS-VPC
 Virtual Private Cloud to solve the problem of security breach in the organization. 
 
+- VPC introduces concept of virtual private cloud in the world of public cloud and adds a lot of security.
+
 - Virtual Private Cloud is One of the most complicated topic of AWS.
 - This comes under networking part of AWS
 - VPC solves problem of security breach. AWS resources are not accessed by unauthorized people in order to maintain security
