@@ -109,3 +109,6 @@
 ![image](https://github.com/user-attachments/assets/f4e41d48-4eec-4a32-a59e-5c8845a85871)
 ![image](https://github.com/user-attachments/assets/8efe7e58-7e4f-45cb-88d1-254266e0e8f8)
 
+
+** Even if we allow configurations in SG, NCAL acts as first layer of defense. DevOps engineers/network engineers who have access to NACL can block configurations at subnet level
+-
