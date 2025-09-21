@@ -1,3 +1,10 @@
+What is an AWS VPC and why is it important in cloud networking?
+-
+- VPC is logically isolated section of AWS cloud where we can launch our AWS resources in virtual private network
+- We control IP ranges, subnets, routes, network gateways creating private network in cloud
+
+----------------------------------------------------------------------------------------------
+
 What’s the difference between a public and private subnet?
 -
 - Public Subnet
